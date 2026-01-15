@@ -5,7 +5,7 @@ Email: [abdul.khan.wassay@gmail.com](mailto:abdul.khan.wassay@gmail.com) | Linke
 
 I'm an experienced Engineering Manager with 12+ years of expertise in leading high-performing Agile teams, delivering scalable software solutions, and driving innovation in cloud, web, and mobile development. I thrive on mentoring engineers, fostering collaboration, and aligning technical execution with business goals to achieve exceptional results.
 
-**Currently at [AVIV Group](https://www.aviv-group.com/) as Engineering Manager** | ex-[Element Insurance](https://www.element.in/) as Engineering Manager** | **ex-[10Pearls](https://10pearls.com/)** | **ex-[Techelix](https://techelix.co/)** | **ex-[Doozie Labs](https://doozielabs.com/)**
+**Currently at [AVIV Group](https://www.aviv-group.com/) as Engineering Manager** | **ex-[Element Insurance](https://www.element.in/)** | **ex-[10Pearls](https://10pearls.com/)** | **ex-[Techelix](https://techelix.co/)** | **ex-[Doozie Labs](https://doozielabs.com/)**
 
 
 
